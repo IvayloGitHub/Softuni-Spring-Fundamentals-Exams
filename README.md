@@ -1,1 +1,1 @@
-# Softuni-Spring-Fundamentals-Exams
+# Softuni-Spring-Fundamentals-Solved-Exams
